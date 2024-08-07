@@ -1,6 +1,4 @@
-# sql_insert-maker
-
-# 크롤링 데이터 SQL Insert 문 생성기
+# 수집한 데이터(csv파일) SQL Insert 문 생성기
 
 이 Python 스크립트는 웹 크롤링으로 수집한 데이터를 데이터베이스에 삽입하기 위한 SQL INSERT 문을 생성하는 도구입니다.
 
