@@ -2,6 +2,16 @@
 
 이 Python 스크립트는 웹 크롤링으로 수집한 데이터를 데이터베이스에 삽입하기 위한 SQL INSERT 문을 생성하는 도구입니다.
 
+## 결과물
+
+![image](https://github.com/user-attachments/assets/a625638f-2bba-4083-a9db-2e77cc7de20b)
+
+해당 수집된 데이터에서 생성된 Insert문
+
+![image](https://github.com/user-attachments/assets/b02ef3e7-3dd2-4fa8-8098-81c493356961)
+
+
+
 ## 목적
 
 웹에서 크롤링한 데이터를 서버의 데이터베이스에 업로드하기 전에 필요한 SQL INSERT 문을 자동으로 생성합니다. 이를 통해 크롤링 데이터의 데이터베이스 적재 과정을 간소화합니다.
